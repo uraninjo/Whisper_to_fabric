@@ -1,0 +1,5 @@
+setuptools-rust
+yt-dlp
+more-itertools
+numba 
+tiktoken
